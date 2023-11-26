@@ -1,0 +1,13 @@
+[mysql]
+
+# mysql  host
+host = "localhost:31016"
+
+# mysql username
+username = "root"  
+
+# mysql user password
+password = "password"  
+
+# mysql database name
+database = "students"  
