@@ -1,0 +1,11 @@
+author: Franc
+database:
+  driver: com.mysql.jdbc.Driver
+  port: 3306
+  dbname: students
+  username: root
+  password: root
+support:
+  - mysql
+  - mongodb
+  - postgres
